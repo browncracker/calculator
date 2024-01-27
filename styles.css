@@ -11,11 +11,12 @@ body {
     align-items: center;
     justify-content: center;
     background: #81857e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: crimson ;
+    text-shadow: #242124;
 }
 
 .first-row {
